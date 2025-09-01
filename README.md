@@ -66,11 +66,12 @@ Steps performed:
 ### 🔹Data Generation   
 ![PYTHON_CODE](https://github.com/ShubhamSinghers/Cloud-Kitchen-Operations-Dashboard-/blob/f56ce3b8c8787be0b43f94f85ef785a348269828/Snap.png)  
 
-### 🔹data exploration and quality checks
-![Dashboard 2](https://github.com/ShubhamSinghers/Cloud-Kitchen-Operations-Dashboard-/blob/f56ce3b8c8787be0b43f94f85ef785a348269828/Snap%20(2).png)  
+### 🔹data exploration and quality checks 
+![Dashboard 2](https://github.com/ShubhamSinghers/Cloud-Kitchen-Operations-Dashboard-/blob/f56ce3b8c8787be0b43f94f85ef785a348269828/Snap%20(1).png)  
 
 ### 🔹  Data Cleaning & Preparation
-![Dashboard 3](https://github.com/ShubhamSinghers/Cloud-Kitchen-Operations-Dashboard-/blob/f56ce3b8c8787be0b43f94f85ef785a348269828/Snap%20(1).png)  
+![Dashboard 3](https://github.com/ShubhamSinghers/Cloud-Kitchen-Operations-Dashboard-/blob/f56ce3b8c8787be0b43f94f85ef785a348269828/Snap%20(2).png)  https://github.com/ShubhamSinghers/Cloud-Kitchen-Operations-Dashboard-/blob/f56ce3b8c8787be0b43f94f85ef785a348269828/Snap%20(1).png)  
+
 
 ## 🖼️ Dashboard Preview  
 
