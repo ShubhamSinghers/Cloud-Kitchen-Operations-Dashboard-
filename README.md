@@ -88,3 +88,7 @@ Steps performed:
 - **[Messy Orders (CSV)](https://github.com/ShubhamSinghers/Cloud-Kitchen-Operations-Dashboard-/blob/17b14950e00465093d0c6fdb4745993ed9feb37b/messy_cloud_kitchen_500%20(1).csv)** – raw dataset with duplicates & nulls.  
 - **[Clean Orders (CSV)](https://github.com/ShubhamSinghers/Cloud-Kitchen-Operations-Dashboard-/blob/17b14950e00465093d0c6fdb4745993ed9feb37b/cleaned_cloud_kitchen_500.csv)** – after cleaning in Python.
 
+## 🤝 Connect
+If you enjoyed this project, please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/shubham-singh1s/) or explore more of my projects on [GitHub](https://github.com/ShubhamSinghers).
+
+
